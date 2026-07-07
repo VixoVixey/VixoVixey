@@ -18,7 +18,7 @@ Mi fuerte es la resolución práctica de problemas: me destaco analizando requer
 ### 📂 Proyectos Destacados
 
 - **[Sistema de Control de Casino](https://github.com/VixoVixey/Sistema-Totem-Cacino.git):** Implementación de una solución para la gestión de raciones de alimentos, validación de accesos mediante RUT e integración de hardware para impresión térmica automatizada de tickets.
-- **[Automatización de Infraestructura Local](enlace-a-tu-repositorio-aqui):** Diseño e implementación de un entorno centralizado para el monitoreo y control de estados de energía de hardware local. Configuración de servicios portables mediante contenedores aislados en Docker para la gestión y automatización de sistemas locales con soporte de energía redundante.
+- **[Automatización de Infraestructura Local](https://github.com/VixoVixey/infraestructura-servicios-docker.git):** Diseño e implementación de un entorno centralizado para el monitoreo y control de estados de energía de hardware local. Configuración de servicios portables mediante contenedores aislados en Docker para la gestión y automatización de sistemas locales con soporte de energía redundante.
 
 ---
 
